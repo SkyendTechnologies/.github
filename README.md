@@ -34,6 +34,4 @@ Skyend Technologies - это актуальный, интересный и др�
 
 Если вы хотите связаться с нами, вы можете использовать один из следующих способов:
 
-- Электронная почта: info@skyend.com
-- Телефон: +1-800-123-4567
-- Сайт: [Skyend Technologies](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- Электронная почта: Gend_Patch@proton.me
