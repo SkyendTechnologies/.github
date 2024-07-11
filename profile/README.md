@@ -25,7 +25,7 @@ Skyend Technologies is an innovative cybersecurity startup born from the chaos o
 - 🆕 **Recently Founded**: By a technology and security enthusiast
 - 👤 **Lean Team**: One visionary founder/developer
 - 🏠 **Remote-First**: Global from day one
-- 💰 **Bootstrapped**: Using founder's funds, with plans for a Kickstarter campaign
+- 💰 **Bootstrapped**: Using founder's funds, with plans for an Indiegogo campaign
 - 🛡️ **Innovative Product**: AetherShield - at the conceptual development stage
 
 ## 🔧 Our Divisions
@@ -59,7 +59,7 @@ To become a beacon of innovation in cybersecurity, creating an ecosystem of adva
 ## 🗓️ Upcoming Plans
 
 1. Complete AetherShield conceptual development
-2. Launch Kickstarter campaign
+2. Launch Indiegogo campaign
 3. Form a specialist team
 4. Create and test AetherShield MVP
 5. Present at tech conferences
@@ -68,7 +68,7 @@ To become a beacon of innovation in cybersecurity, creating an ecosystem of adva
 
 ## 🤝 Join Us!
 
-We invite all innovation and security enthusiasts to join us on this exciting journey. Watch for our Kickstarter campaign and be part of the cybersecurity revolution!
+We invite all innovation and security enthusiasts to join us on this exciting journey. Watch for our Indiegogo campaign and be part of the cybersecurity revolution!
 
 ---
 
