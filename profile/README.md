@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SkyendTechnologies/.github/blob/main/mian%403x.png" alt="AetherShield Concept" width="200"/>
+  <img src="https://github.com/SkyendTechnologies/.github/blob/main/no%20bg%2002%20-%20a-minimalist-and-clean-logo-design-featuring-a-sty.png" alt="AetherShield Concept" width="512"/>
 </p>
 
 <h1 align="center">Skyend Technologies</h1>
