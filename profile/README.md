@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SkyendTechnologies/.github/blob/main/no%20bg%2002%20-%20a-minimalist-and-clean-logo-design-featuring-a-sty.png" alt="AetherShield Concept" width="512"/>
+  <img src="https://github.com/SkyendTechnologies/.github/blob/main/no%20bg%2002%20-%20a-minimalist-and-clean-logo-design-featuring-a-sty.png" alt="Skyend Logo" width="512"/>
 </p>
 
 <h1 align="center">Skyend Technologies</h1>
@@ -16,98 +16,123 @@
 
 ---
 
-## 🌟 About Us
+# 🌟 About Us
 
-Skyend Technologies is an innovative cybersecurity startup born from the chaos of modern cyber threats. Like a bright crystal emerging from darkness, we bring the light of innovation to data protection. Our mission is to create cutting-edge security solutions that blend advanced technology with creative vision, inspired by the worlds of science fiction and anime.
+Skyend Technologies is an innovative cybersecurity startup born from the chaos of modern cyber threats. Like a bright crystal emerging from darkness, we bring the light of innovation to data protection. Our mission is to create cutting-edge security solutions that blend advanced technology with creative vision, inspired by science fiction and anime.
 
-### 🚀 Why We're Unique:
+## 🚀 Why We're Unique
 
-- 🆕 **Recently Founded**: By a technology and security enthusiast with a passion for anime and sci-fi
-- 👤 **Lean Team**: One visionary founder/developer, allowing for quick decision-making and agile development
-- 🏠 **Remote-First**: Global from day one, embracing the future of work
-- 💰 **Bootstrapped**: Using founder's funds to maintain independence and focus on innovation
-- 🛡️ **Innovative Product**: AetherShield - a next-gen encryption system at the conceptual development stage
-- 🌐 **Interdisciplinary Approach**: Combining cybersecurity, AI, and creative concepts for unique solutions
+- 🆕 Recently founded by a technology & security enthusiast with a passion for anime and sci-fi  
+- 👤 Lean team led by a visionary founder/developer for agile execution  
+- 🏠 Remote-first, globally distributed from day one  
+- 💰 Bootstrapped to prioritize independence and innovation  
+- 🛡️ AetherShield: next-gen encryption in active conceptual/prototyping phase  
+- 🌐 Interdisciplinary approach combining cybersecurity, AI, and creative expression  
 
-## 🔧 Our Divisions
+# 🔧 Our Divisions
 
-### 1. Skyend Technologies
-Our main division focuses on advanced technology development and integration into client business processes. We specialize in:
-- 🔒 Cutting-edge encryption algorithms
-- 🤖 AI-driven threat detection and prevention
-- 🔗 Blockchain-based secure data storage solutions
-- 🌐 Quantum-resistant cryptography research
+## 1) Skyend Technologies
+Core R&D and platform engineering:
+- 🔒 Advanced encryption & key management  
+- 🤖 AI-driven detection, response, and anomaly analysis  
+- 🔗 Distributed systems & secure data pipelines  
+- 🧪 Research into quantum-resistant cryptography  
 
-### 2. Skyend Developer
-Our software development arm creates custom solutions tailored to specific client requirements:
-- 💻 Secure application development
-- 🔍 Penetration testing and vulnerability assessment tools
-- 📊 Data visualization for security analytics
-- 🔧 API development for seamless integration with existing systems
+## 2) Skyend Developer
+Client-focused product engineering:
+- 💻 Secure application development & audits  
+- 🔍 Tooling for pentests and vulnerability research  
+- 📊 Security analytics & visualizations  
+- 🔧 APIs/SDKs for seamless integrations  
 
-## 🛡️ Our Flagship Project: AetherShield
+# 🛡️ Flagship Project — AetherShield
 
-AetherShield is an innovative data encryption system inspired by anime concepts and enhanced by AI. It represents a paradigm shift in how we approach data protection.
+AetherShield is our flagship data-protection platform, uniting high-performance crypto with adaptive AI.
 
-### Key Features:
-- ⚡ High-performance Rust core for blazing-fast encryption and decryption
-- 🐍 Flexible Python backend for easy integration and customization
-- 🤖 Integration with Claude language model for adaptive AI-driven security
-- 🎨 Anime-inspired user interface for intuitive security management
-- 🌊 "Quantum Ripple" encryption algorithm, inspired by quantum mechanics principles
-- 🔮 Predictive threat analysis using machine learning
+## Key Features
+- ⚡ Rust core for blazing-fast, memory-safe cryptography  
+- 🐍 Python backend for integration and orchestration  
+- 🤖 Claude-assisted adaptive defense & policy suggestions  
+- 🎛️ Granular key & policy management with audit trails  
+- 🔮 Predictive threat modeling and anomaly scoring  
+- 🧩 Modular architecture for zero-trust, BYOK, HSM, and S/MIMEsque flows
 
-### Technical Stack:
-- 🦀 Rust for core encryption engine
-- 🐍 Python for backend services and AI integration
-- 🚀 WebAssembly for browser-based encryption
-- ☁️ Cloud-native architecture for scalability
-- 🐳 Docker and Kubernetes for containerization and orchestration
-- 🗄️ PostgreSQL for secure data storage
-- 🔗 GraphQL API for flexible data querying
+## Technical Stack
+- 🦀 Rust (core), 🐍 Python (services)  
+- 🚀 WebAssembly for optional in-browser crypto  
+- ☁️ Cloud-native (Docker, Kubernetes)  
+- 🗄️ PostgreSQL (config/audit), object storage for artifacts  
+- 🔗 GraphQL/REST APIs, gRPC for internal services  
 
-## 🔮 Our Vision
+# 💼 Additional Projects
 
-To become a beacon of innovation in cybersecurity, creating an ecosystem of advanced data protection solutions that are not only highly secure but also user-friendly and aesthetically pleasing. We aim to:
+## CellNexus
+A modular P2P DAG network for streaming and persisting typed “cell” data.
+- ✅ Verifiable DAG with deterministic hashing  
+- 🌐 REST, WebSocket, libp2p gossip distribution  
+- 🗃️ Backed by MongoDB + Redis; schedulers for repair/snapshots  
+- 🧩 Foundation layer for secure exchange across Skyend products  
 
-1. Revolutionize data encryption with AI-driven adaptive security
-2. Bridge the gap between cutting-edge technology and user-friendly interfaces
-3. Inspire a new generation of cybersecurity professionals through our anime-inspired designs
-4. Contribute to open-source security projects to elevate the entire industry
+## CellNexus Control
+A Progressive Web App for monitoring CellNexus layers.
+- 🎛️ Real-time DAG visualization, metrics, peer topology  
+- 🖥️ GPU-accelerated canvas rendering, accessibility-aware UI  
+- ⚙️ React + TypeScript + Vite; telemetry via Prometheus/Grafana  
 
-## 🧠 Our Approach
+## Zoltraak
+Secure file exchange built on CellNexus.
+- 🔐 End-to-end encrypted uploads (BLAKE3, Fernet)  
+- 🧑‍💼 Role/scope-based access via JWT  
+- ⚙️ FastAPI backend + React frontend, live health/stats endpoints  
+- 🔄 Planned AetherShield key-rotation integration  
 
-1. **Innovation**: Experimenting with new ideas, pushing the boundaries of what's possible in cybersecurity
-2. **Interdisciplinarity**: Combining technology, art, and data science for holistic security solutions
-3. **Flexibility**: Quick adaptation to market and technology changes, staying ahead of emerging threats
-4. **Openness**: Active engagement with developer and security expert communities, fostering collaboration
-5. **User-Centric Design**: Creating security solutions that are powerful yet accessible to non-experts
-6. **Continuous Learning**: Staying at the forefront of cybersecurity trends and emerging technologies
+## FlowForge
+A visual workflow studio for prototyping automation/data pipelines.
+- 🧱 Drag-and-drop nodes (AI, Control, Data, Integration)  
+- ✍️ Zod-driven dynamic forms, Monaco editor for code/prompt fields  
+- 🌀 Realtime simulation with logs, undo/redo, auto-layout  
+- 💾 Import/Export JSON & YAML; presets and command palette  
 
-## 🗓️ Upcoming Plans
+# 🔮 Our Vision
 
-1. Complete AetherShield conceptual development and begin prototype implementation
-2. Form a specialist team of cryptographers, AI experts, and UI/UX designers
-3. Create and test AetherShield MVP with early adopters
-4. Present our innovative approach at major tech conferences (BlackHat, DefCon, RSA Conference)
-5. Develop additional AetherShield modules for specific industry verticals (finance, healthcare, IoT)
-6. Grow user and developer community through open-source initiatives and educational content
-7. Establish partnerships with leading tech companies for wider integration of AetherShield
-8. Initiate research into post-quantum cryptography to future-proof our solutions
+We aim to become a beacon of innovation in cybersecurity:
+1. Revolutionize encryption through AI-assisted, human-centered tooling  
+2. Blend high security with intuitive, elegant UX  
+3. Inspire new builders with creativity rooted in anime & design culture  
+4. Elevate the industry through open collaboration and research
 
-## 🤝 Join Us!
+# 🧠 Our Approach
 
-We invite all innovation and security enthusiasts to join us on this exciting journey. Whether you're a seasoned cybersecurity professional, a budding developer, or simply passionate about creating a secure digital future, there's a place for you in our community.
+1. **Innovation** — rapid prototyping and rigorous validation  
+2. **Interdisciplinarity** — security × AI × design × distributed systems  
+3. **Flexibility** — respond quickly to new threats and standards  
+4. **Openness** — collaborate with global dev & research communities  
+5. **User-Centricity** — power without complexity  
+6. **Continuous Learning** — stay ahead of emerging tech & risks
 
-- 💬 Join our Telegram channel for the latest updates and discussions
-- 🌟 Star and watch our GitHub repositories to stay informed about our open-source projects
-- 🐞 Contribute to our projects by submitting pull requests or reporting issues
-- 📚 Participate in our upcoming webinars and online workshops on cybersecurity best practices
+# 🗓️ Roadmap (2026–203x)
 
-Together, let's shape the future of cybersecurity and make the digital world a safer place for everyone!
+1. Finalize AetherShield concept and launch prototype pilots  
+2. Build core team (cryptography, AI, platform, UX)  
+3. AetherShield MVP → early adopters → iterative hardening  
+4. Present at BlackHat, DEF CON, RSA; publish whitepapers & demos  
+5. Vertical add-ons (finance, healthcare, IoT) and partner integrations  
+6. Expand CellNexus mesh; integrate AetherShield key rotation with Zoltraak  
+7. FlowForge AI nodes and enterprise presets; infra automation  
+8. Post-quantum crypto R&D and staged migrations
+
+# 🤝 Join Us
+
+Are you passionate about cybersecurity and innovation?  
+- 💬 Join our Telegram: **https://t.me/SkyendTechnologies**  
+- ⭐ Star and follow our GitHub repositories  
+- 🐞 Contribute code, ideas, or issues  
+- 📚 Attend upcoming webinars and workshops
+
+Let’s build the future of secure technology—together.
 
 ---
 
 <p align="center">
-  © 2024 Skyend Technologies. All rights reserved.
+  © 2026 Skyend Technologies. All rights reserved.
 </p>
