@@ -1,37 +1,39 @@
-# Skyend Technologies
+ # Skyend Technologies
 
-В Skyend Technologies наша миссия - предоставлять инновационные решения для улучшения жизни и безопасности людей. Мы стремимся создавать технологии и продукты, которые могут облегчить и обезопасить жизнь.
+At Skyend Technologies, our mission is to deliver innovative solutions that enhance people’s lives and ensure their safety. We strive to create technologies and products that can make life easier and more secure.
 
-Мы предлагаем широкий спектр продуктов и услуг, от систем безопасности и умного дома до биометрических решений. Наши продукты разработаны так, чтобы дать пользователям уверенность в том, что их дома и офисы защищены. Мы также предлагаем передовые технологические решения для бизнеса, правительства и образовательных учреждений.
+We offer a wide range of products and services — from security systems and smart home solutions to biometric technologies. Our products are designed to give users confidence that their homes and offices are protected. We also provide advanced technological solutions for businesses, government institutions, and educational organizations.
 
-Мы понимаем, насколько важно оставаться на острие технологий, и мы постоянно ищем способы улучшить наши продукты и услуги. Мы стремимся предоставлять нашим клиентам лучшие возможные решения и стремимся превзойти их ожидания.
+We understand the importance of staying at the forefront of technology, and we are constantly looking for ways to improve our products and services. We aim to deliver the best possible solutions to our clients and consistently exceed their expectations.
 
-В Skyend Technologies мы считаем, что каждый должен иметь доступ к самым передовым технологиям. Наша цель - сделать так, чтобы каждый мог воспользоваться достижениями технологий, независимо от своих потребностей или бюджета.
+At Skyend Technologies, we believe that everyone should have access to the most advanced technologies. Our goal is to make technological innovation available to everyone, regardless of their needs or budget.
 
-Мы приглашаем вас изучить наш сайт и узнать больше обо всех удивительных технологиях, которые мы предлагаем. С Skyend Technologies вы можете быть уверены, что ваш дом или бизнес всегда будет в безопасности. С нашей ультрасовременной технологией, передовым оборудованием и развитым подходом, Skyend Technologies - компания, которая почетно носит звание \"Компания будущего\".
+We invite you to explore our website and learn more about the amazing technologies we offer. With Skyend Technologies, you can be sure that your home or business will always remain secure. With our cutting-edge technology, advanced equipment, and forward-thinking approach, Skyend Technologies proudly carries the title of **“Company of the Future.”**
 
-Skyend Technologies - это актуальный, интересный и дружелюбный IT-центр.
+Skyend Technologies is a modern, innovative, and friendly IT center.
 
+---
 
-## Вклад в проект
+## Contribution to the Project
 
-Мы рады любому вкладу в наш проект, будь то исправление ошибок, добавление новых функций, улучшение документации или предложение идей. Если вы хотите внести свой вклад в наш проект, пожалуйста, следуйте этим рекомендациям:
+We welcome any contribution to our project — whether it’s fixing bugs, adding new features, improving documentation, or suggesting ideas. If you would like to contribute, please follow these guidelines:
 
-- Создайте ветку с названием, отражающим ваш вклад (например, `fix-bug`, `add-feature`, `update-docs` и т.д.)
-- Сделайте необходимые изменения в коде или документации
-- Сохраните и отправьте свои изменения на GitHub
-- Создайте запрос на слияние в основную ветку проекта
-- Ждите ревью и обратной связи от нашей команды
+- Create a branch named according to your contribution (e.g., `fix-bug`, `add-feature`, `update-docs`, etc.)
+- Make the necessary changes to the code or documentation
+- Commit and push your changes to GitHub
+- Create a pull request to the main branch of the project
+- Wait for review and feedback from our team
 
-Если у вас есть какие-либо вопросы, пожелания или предложения, пожалуйста, свяжитесь с нами по электронной почте info@skyend.com или создайте новый вопрос на GitHub.
+If you have any questions, suggestions, or requests, please contact us at **info@skyend.com** or open a new issue on GitHub.
 
+---
 
-## Лицензия и авторские права
+## License & Copyright
 
-Этот проект лицензирован под [MIT License](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/), что означает, что вы можете свободно использовать, копировать, изменять и распространять его, при условии, что вы сохраните копию лицензии во всех копиях или частях проекта.
+This project is licensed under the [MIT License](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/), which means you are free to use, copy, modify, and distribute it as long as you include a copy of the license in all copies or parts of the project.
 
-Автором и владельцем этого проекта является Skyend Technologies, компания, зарегистрированная В РФ. Все права защищены.
+The author and owner of this project is **Skyend Technologies**, a company registered in the Russian Federation. All rights reserved.
 
-Если вы хотите связаться с нами, вы можете использовать один из следующих способов:
+If you want to contact us, you can use the following method:
 
-- Электронная почта: Gend_Patch@proton.me
+- Email: **Gend_Patch@proton.me**
