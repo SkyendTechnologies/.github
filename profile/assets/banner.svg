@@ -1,103 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
-  <title id="title">Skyend Technologies</title>
-  <desc id="desc">Engineering secure, verifiable, distributed systems.</desc>
-
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#050914"/>
-      <stop offset="0.52" stop-color="#081120"/>
-      <stop offset="1" stop-color="#03060d"/>
-    </linearGradient>
-
-    <radialGradient id="glow" cx="76%" cy="42%" r="52%">
-      <stop offset="0" stop-color="#5fa8ff" stop-opacity=".22"/>
-      <stop offset=".48" stop-color="#3677c7" stop-opacity=".08"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#86c5ff" stop-opacity="0"/>
-      <stop offset=".45" stop-color="#86c5ff" stop-opacity=".55"/>
-      <stop offset="1" stop-color="#d9ecff" stop-opacity=".08"/>
-    </linearGradient>
-
-    <linearGradient id="logoBright" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1746e8"/>
-      <stop offset=".52" stop-color="#258cff"/>
-      <stop offset="1" stop-color="#5bc7ff"/>
-    </linearGradient>
-
-    <linearGradient id="logoMid" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#173cc8"/>
-      <stop offset="1" stop-color="#256eea"/>
-    </linearGradient>
-
-    <linearGradient id="logoDark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#19278e"/>
-      <stop offset="1" stop-color="#11175e"/>
-    </linearGradient>
-
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
-
-    <filter id="logoGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="5"/>
-    </filter>
-  </defs>
-
-  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
-  <rect width="1600" height="520" rx="28" fill="url(#glow)"/>
-
-  <g fill="#a8d3ff" opacity=".55">
-    <circle cx="1045" cy="92" r="2.2"/>
-    <circle cx="1288" cy="150" r="1.7"/>
-    <circle cx="1422" cy="74" r="1.4"/>
-    <circle cx="1182" cy="348" r="1.5"/>
-    <circle cx="1508" cy="330" r="2"/>
-    <circle cx="944" cy="402" r="1.3"/>
-  </g>
-
-  <g fill="none" stroke-linecap="round">
-    <path d="M740 92 C 1010 8, 1370 32, 1640 188" stroke="url(#line)" stroke-width="1.6"/>
-    <path d="M850 422 C 1110 246, 1398 210, 1660 238" stroke="url(#line)" stroke-width="1.2" opacity=".75"/>
-    <path d="M1010 540 C 1120 278, 1310 130, 1645 88" stroke="#8fc9ff" stroke-opacity=".16" stroke-width="1.2"/>
-    <circle cx="1310" cy="274" r="208" stroke="#7ebcff" stroke-opacity=".08" stroke-width="1.2"/>
-  </g>
-
-  <circle cx="1198" cy="260" r="164" fill="#4c96e8" opacity=".06" filter="url(#softGlow)"/>
-
-  <!-- Skyend geometric mark, drawn as native SVG so GitHub renders it reliably -->
-  <g transform="translate(102 66)">
-    <path d="M18 40 L82 4 L104 17 L40 54 L40 92 L18 105 Z" fill="#2877f2" opacity=".22" filter="url(#logoGlow)"/>
-    <polygon points="18,40 82,4 103,17 40,54 40,91 18,104" fill="url(#logoBright)"/>
-    <polygon points="82,4 112,21 112,43 82,26 40,50 40,54 18,40" fill="url(#logoDark)"/>
-    <polygon points="40,91 103,55 121,67 58,104 58,119 40,130 18,117 18,104" fill="url(#logoBright)"/>
-    <polygon points="58,104 121,67 121,88 78,113 78,151 58,162" fill="url(#logoMid)"/>
-    <polygon points="78,113 121,88 121,126 78,151" fill="url(#logoDark)"/>
-    <polygon points="18,117 40,130 40,157 58,167 58,190 18,168" fill="url(#logoMid)"/>
-    <polygon points="58,167 100,143 100,166 58,190" fill="url(#logoDark)"/>
-  </g>
-
-  <g transform="translate(104 128)">
-    <text x="142" y="0" fill="#8fbbe8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="7">SKYEND TECHNOLOGIES</text>
-
-    <text x="0" y="88" fill="#f4f8ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing=".5">
-      Engineering secure,
-    </text>
-    <text x="0" y="146" fill="#f4f8ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing=".5">
-      verifiable, distributed systems.
-    </text>
-
-    <rect x="0" y="190" width="150" height="2" rx="1" fill="#76b9f5" opacity=".8"/>
-
-    <text x="0" y="238" fill="#8fa6bf" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" letter-spacing="1.4">
-      SECURITY · CRYPTOGRAPHY · DISTRIBUTED SYSTEMS · INTELLIGENT SOFTWARE
-    </text>
-  </g>
-
-  <g transform="translate(1362 402)" opacity=".78">
-    <circle cx="0" cy="0" r="5" fill="#b8ddff"/>
-    <circle cx="0" cy="0" r="14" fill="none" stroke="#8bc7ff" stroke-opacity=".26"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050914"/><stop offset=".52" stop-color="#081120"/><stop offset="1" stop-color="#03060d"/></linearGradient>
+<radialGradient id="glow" cx="76%" cy="42%" r="52%"><stop offset="0" stop-color="#5fa8ff" stop-opacity=".22"/><stop offset=".48" stop-color="#3677c7" stop-opacity=".08"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#86c5ff" stop-opacity="0"/><stop offset=".45" stop-color="#86c5ff" stop-opacity=".55"/><stop offset="1" stop-color="#d9ecff" stop-opacity=".08"/></linearGradient>
+</defs>
+<rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+<rect width="1600" height="520" rx="28" fill="url(#glow)"/>
+<g fill="#a8d3ff" opacity=".55"><circle cx="1045" cy="92" r="2.2"/><circle cx="1288" cy="150" r="1.7"/><circle cx="1422" cy="74" r="1.4"/><circle cx="1182" cy="348" r="1.5"/><circle cx="1508" cy="330" r="2"/><circle cx="944" cy="402" r="1.3"/></g>
+<g fill="none" stroke-linecap="round"><path d="M740 92 C1010 8 1370 32 1640 188" stroke="url(#line)" stroke-width="1.6"/><path d="M850 422 C1110 246 1398 210 1660 238" stroke="url(#line)" stroke-width="1.2" opacity=".75"/><path d="M1010 540 C1120 278 1310 130 1645 88" stroke="#8fc9ff" stroke-opacity=".16" stroke-width="1.2"/><circle cx="1310" cy="274" r="208" stroke="#7ebcff" stroke-opacity=".08" stroke-width="1.2"/></g>
+<g transform="translate(92 48) scale(1.22)">
+<polygon fill="#171f47" points="54,4 85,35 30,72 22,54 37,91 18,70 19,84 40,95 42,83 43,99 27,74 58,65 86,35"/>
+<polygon fill="#141c56" points="84,32 64,44 58,43 51,52 44,52 43,57 34,60 32,68 43,65 73,46"/>
+<polygon fill="#1f263c" points="53,0 79,15 85,39 107,32 85,57 86,85 61,105 87,88 87,57 109,31 88,38 81,15"/>
+<polygon fill="#0b0f44" points="50,67 35,76 37,82 44,84 44,96 51,103 51,76 57,71 47,76"/>
+<polygon fill="#141c56" points="21,56 14,64 20,72 20,82 23,86 36,91 35,87 26,80 24,68 26,58"/>
+<polygon fill="#1c295d" points="103,34 99,34 85,43 81,48 78,48 74,55 79,58 86,51 94,48 101,40"/>
+<polygon fill="#1f263c" points="17,52 1,68 3,78 15,71 18,86 48,105 18,84 16,69 9,74 3,72"/>
+<polygon fill="#141c56" points="75,52 59,60 59,66 52,67 47,75 53,70 59,70 76,59 73,55"/>
+<polygon fill="#2560c4" points="62,35 57,33 44,43 38,45 33,50 34,54"/>
+<polygon fill="#1f3bad" points="26,20 20,26 20,49 23,49 25,46 25,32 29,25"/>
+<polygon fill="#141c56" points="53,6 53,11 56,10 63,17 75,21 77,24 79,23 76,17 68,15 63,9"/>
+<polygon fill="#0b0f44" points="74,90 71,92 68,91 68,88 65,90 63,90 58,93 57,98 58,99 64,99"/>
+<polygon fill="#1d274b" points="104,34 94,49 74,61 77,62 78,71 82,60 86,64 84,82 84,57 99,45"/>
+<polygon fill="#141c56" points="79,71 78,72 79,81 74,87 70,88 69,91 71,91 75,88 79,88 82,85 84,79 80,75"/>
+<polygon fill="#1f336c" points="102,35 99,35 89,43 86,47 89,48 94,46 98,42"/>
+<polygon fill="#3584ca" points="50,6 48,6 41,10 38,13 38,14 42,17 44,15 46,15 49,13 50,11"/>
+<polygon fill="#1c295d" points="82,61 79,65 79,70 81,75 84,78 85,64 84,62"/>
+<polygon fill="#171f47" points="20,57 18,57 13,61 10,66 4,72 9,73 14,68 16,68 16,67 13,66 13,64"/>
+<polygon fill="#1f263c" points="76,71 70,77 70,81 68,84 60,88 58,92 76,80"/>
+<polygon fill="#3584ca" points="72,29 71,29 69,27 66,27 61,31 60,31 59,33 61,33 63,35 65,35 67,33 70,32 72,30"/>
+<polygon fill="#1f263c" points="76,62 70,64 53,77 52,93 54,95 54,79 71,64 75,65 77,69"/>
+<polygon fill="#2560c4" points="41,17 36,14 31,18 28,19 28,23 32,22"/>
+<polygon fill="#1f263c" points="51,16 56,16 59,19 59,22 61,24 61,26 67,22 62,20 56,14 54,14"/>
+<polygon fill="#1d274b" points="102,33 99,32 91,39 84,40 79,47 76,47 74,51 68,54 74,52 78,47 81,47 85,42 99,33"/>
+<polygon fill="#244488" points="45,17 29,26 26,46 20,50 19,26 34,13 19,24 19,49 23,50 27,45 27,29"/>
+<polygon fill="#171f47" points="86,79 86,82 79,89 75,89 69,96 76,91 80,90 85,85"/>
+<polygon fill="#171f47" points="78,78 74,83 59,92 63,89 68,87 69,88 70,86 74,86 78,81"/>
+<polygon fill="#1d274b" points="28,56 28,63 29,64 28,69 30,71 31,70 31,67 30,66 31,63 30,61 34,59 33,60 30,60 28,58"/>
+<polygon fill="#1f263c" points="49,17 30,31 31,45 47,35 37,42 33,42 30,38 32,29"/>
+<polygon fill="#171f47" points="76,31 73,34 74,35 73,36 71,35 69,37 67,37 63,41 61,41 60,44 64,43 65,40 68,39 71,36 76,35"/>
+<polygon fill="#171f47" points="45,53 43,53 41,55 40,55 39,56 38,56 36,58 35,58 35,59 39,59 42,56 43,56"/>
+<polygon fill="#1f263c" points="74,49 73,48 71,48 70,49 69,49 68,50 68,51 65,53 65,54 67,54 70,51 72,51 73,50 74,50"/>
+<polygon fill="#171f47" points="74,62 73,61 63,67 52,76 52,79 52,77 55,74 65,68 70,63"/>
+<polygon fill="#1f263c" points="49,64 47,64 44,68 42,68 39,70 43,70 44,69 44,68 45,67 47,67 49,65"/>
+<polygon fill="#1f263c" points="33,73 32,73 29,76 29,79 31,81 33,81 32,81 30,79 30,78 32,75 33,75 34,76"/>
+<polygon fill="#1d274b" points="42,84 40,87 41,88 41,96 42,97 42,98"/>
+<polygon fill="#1d274b" points="65,55 64,54 63,54 60,57 58,57 56,60 54,60 55,61 57,59 59,59 60,58 61,58 61,57 62,56"/>
+<polygon fill="#171f47" points="52,94 52,103 51,104 53,104 52,103 53,102 53,98 54,97 54,96"/>
+<polygon fill="#171f47" points="100,31 100,32 102,32 103,33 104,33 105,34 106,34 106,32 105,31"/>
+<polygon fill="#2e5fa4" points="64,36 34,55 32,50 37,45 32,49 32,55"/>
+<polygon fill="#1f263c" points="31,6 30,5 29,5 28,6 27,6 27,7 28,8 29,8 30,7 31,7"/>
+<polygon fill="#1f336c" points="21,21 18,24 19,52 27,49 27,46 23,51 18,49 18,24"/>
+<polygon fill="#0b0f44" points="55,96 55,97 54,98 54,102 53,103 54,103 55,102"/>
+<polygon fill="#2e5fa4" points="73,29 71,32 73,29 66,26 39,44 66,26"/>
+<polygon fill="#1d274b" points="81,29 80,28 78,28 77,29 75,28 75,31 72,34 72,35 73,35 72,34 74,32 75,32 75,30 76,29"/>
+<polygon fill="#1f263c" points="80,44 78,44 77,45 77,46 79,46 80,45"/>
+<polygon fill="#171f47" points="33,61 31,61 31,62 32,63 32,64 31,65 31,66 32,65 32,64 33,63"/>
+<polygon fill="#1c295d" points="28,45 28,49 25,51 28,49 29,50 29,58 33,59 35,57 33,59 31,59 29,57 29,48 31,47 29,47"/>
+<polygon fill="#2e5fa4" points="51,10 49,14 32,23 30,23 30,24 46,16 50,13"/>
+<polygon fill="#2e5fa4" points="50,4 30,17 37,13 44,7 50,5"/>
+<polygon fill="#1d274b" points="31,73 29,73 28,74 28,78 28,76"/>
+<polygon fill="#1d274b" points="7,67 6,68 4,68 3,69 3,70 4,70"/>
+<polygon fill="#1f263c" points="18,10 18,11 19,12 20,12 20,10"/>
+<polygon fill="#171f47" points="68,55 66,55 65,56 64,56 63,57 62,57 62,58 61,59 60,59 61,59 62,58 63,58 65,56 66,56 67,55"/>
+<polygon fill="#244488" points="44,40 31,49 31,56 32,57 34,56 31,55 31,49"/>
+<polygon fill="#1d274b" points="39,71 37,71 35,73 34,73 34,74 35,74 35,73 36,72 38,72"/>
+<polygon fill="#1d274b" points="18,53 18,56 20,56 21,55 19,55 18,54"/>
+<polygon fill="#1d274b" points="36,43 34,43 31,46 30,46 32,46 35,43"/>
+<polygon fill="#171f47" points="48,50 48,51 51,51 51,50"/>
+</g>
+<text x="250" y="105" fill="#9bc9f5" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="7">SKYEND TECHNOLOGIES</text>
+<text x="104" y="250" fill="#f4f8ff" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="48" font-weight="600">Engineering secure,</text>
+<text x="104" y="310" fill="#f4f8ff" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="48" font-weight="600">verifiable, distributed systems.</text>
+<rect x="104" y="350" width="150" height="2" rx="1" fill="#76b9f5" opacity=".8"/>
+<text x="104" y="398" fill="#8fa6bf" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="18" letter-spacing="1.4">SECURITY · CRYPTOGRAPHY · DISTRIBUTED SYSTEMS · INTELLIGENT SOFTWARE</text>
 </svg>
