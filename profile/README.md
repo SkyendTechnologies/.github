@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SkyendTechnologies/.github/blob/main/profile/assets/banner.svg" alt="Skyend Technologies — Engineering secure, verifiable, distributed systems." width="100%"/>
+  <img src="https://github.com/SkyendTechnologies/.github/blob/main/profile/assets/banner.png" alt="Skyend Technologies — Engineering secure, verifiable, distributed systems." width="100%"/>
 </p>
 
 <p align="center">
