@@ -1,15 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SkyendTechnologies/.github/blob/main/no%20bg%2002%20-%20a-minimalist-and-clean-logo-design-featuring-a-sty.png" alt="Skyend Technologies logo" width="420"/>
-</p>
-
-<h1 align="center">Skyend Technologies</h1>
-
-<p align="center">
-  <strong>Engineering secure, verifiable, distributed systems.</strong>
-</p>
-
-<p align="center">
-  Research and engineering at the intersection of security, cryptography, distributed systems, and intelligent software.
+  <img src="https://github.com/SkyendTechnologies/.github/blob/main/profile/assets/banner.svg" alt="Skyend Technologies — Engineering secure, verifiable, distributed systems." width="100%"/>
 </p>
 
 <p align="center">
@@ -17,8 +7,6 @@
     <img src="https://img.shields.io/badge/Telegram-Skyend%20Technologies-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Skyend Technologies on Telegram"/>
   </a>
 </p>
-
----
 
 ## About
 

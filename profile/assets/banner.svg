@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Skyend Technologies</title>
+  <desc id="desc">Engineering secure, verifiable, distributed systems.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050914"/>
+      <stop offset="0.52" stop-color="#081120"/>
+      <stop offset="1" stop-color="#03060d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="76%" cy="42%" r="52%">
+      <stop offset="0" stop-color="#5fa8ff" stop-opacity=".22"/>
+      <stop offset=".48" stop-color="#3677c7" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#86c5ff" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#86c5ff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#d9ecff" stop-opacity=".08"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="28" fill="url(#glow)"/>
+
+  <g fill="#a8d3ff" opacity=".55">
+    <circle cx="1045" cy="92" r="2.2"/>
+    <circle cx="1288" cy="150" r="1.7"/>
+    <circle cx="1422" cy="74" r="1.4"/>
+    <circle cx="1182" cy="348" r="1.5"/>
+    <circle cx="1508" cy="330" r="2"/>
+    <circle cx="944" cy="402" r="1.3"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M740 92 C 1010 8, 1370 32, 1640 188" stroke="url(#line)" stroke-width="1.6"/>
+    <path d="M850 422 C 1110 246, 1398 210, 1660 238" stroke="url(#line)" stroke-width="1.2" opacity=".75"/>
+    <path d="M1010 540 C 1120 278, 1310 130, 1645 88" stroke="#8fc9ff" stroke-opacity=".16" stroke-width="1.2"/>
+    <circle cx="1310" cy="274" r="208" stroke="#7ebcff" stroke-opacity=".08" stroke-width="1.2"/>
+  </g>
+
+  <circle cx="1198" cy="260" r="164" fill="#4c96e8" opacity=".06" filter="url(#softGlow)"/>
+
+  <g transform="translate(104 128)">
+    <text x="0" y="0" fill="#8fbbe8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="7">SKYEND TECHNOLOGIES</text>
+    <text x="0" y="88" fill="#f4f8ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing=".5">
+      Engineering secure,
+    </text>
+    <text x="0" y="146" fill="#f4f8ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing=".5">
+      verifiable, distributed systems.
+    </text>
+    <rect x="0" y="190" width="150" height="2" rx="1" fill="#76b9f5" opacity=".8"/>
+    <text x="0" y="238" fill="#8fa6bf" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" letter-spacing="1.4">
+      SECURITY · CRYPTOGRAPHY · DISTRIBUTED SYSTEMS · INTELLIGENT SOFTWARE
+    </text>
+  </g>
+
+  <g transform="translate(1362 402)" opacity=".78">
+    <circle cx="0" cy="0" r="5" fill="#b8ddff"/>
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#8bc7ff" stroke-opacity=".26"/>
+  </g>
+</svg>
