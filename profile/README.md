@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/SkyendTechnologies/.github/blob/main/profile/assets/logo.png" alt="Skyend Technologies logo" width="128"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/SkyendTechnologies/.github/blob/main/profile/assets/banner.svg" alt="Skyend Technologies — Engineering secure, verifiable, distributed systems." width="100%"/>
 </p>
 
